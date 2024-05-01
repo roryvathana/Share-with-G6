@@ -5,7 +5,6 @@ All important websites for Computer Science students.
 -----
 
 # Learning How to Learn & Soft Skills
-Credit to [Tontan Hak](https://github.com/Tontan-Hak)
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -102,7 +101,7 @@ Credit to [Tontan Hak](https://github.com/Tontan-Hak)
 >  - [📄 The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/feynman-technique/)
 >  <!--END_SECTION:activity-->
 >   </details>
-
+Credit to [Tontan Hak](https://github.com/Tontan-Hak)
 # [CPF: Computer Programming Fundamental](CPF:-Computer-Programming-Fundamental)
 
   * [GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language) : The best  platform offering a wealth of resources for computer science education, programming practice, and technical interview preparation.
