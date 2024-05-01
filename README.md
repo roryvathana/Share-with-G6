@@ -5,6 +5,7 @@ All important websites for Computer Science students.
 -----
 
 # Learning How to Learn & Soft Skills
+Credit to [Tontan Hak](https://github.com/Tontan-Hak)
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
